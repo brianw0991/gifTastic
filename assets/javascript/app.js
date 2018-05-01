@@ -1,5 +1,5 @@
 
-var animalArray= ["Bear", "Squirrel", "Brule's Rule's", "Rhino", "dog", "cat", "fail", "Ron Burgundy", "monkey", "random"];
+var animalArray= ["Bear", "Squirrel", "Brule's Rule's", "dog", "cat", "fail", "Ron Burgundy", "monkey", "random"];
 var animalSearch;
 var giphyArray = [];
 renderButtons();
